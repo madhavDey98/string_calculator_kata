@@ -1,0 +1,14 @@
+{
+  "name": "string_calculator_kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
